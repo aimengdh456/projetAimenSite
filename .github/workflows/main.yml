@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: aimenprojet
-        password: *Aimen2222
+        password: abcdefghijklm
         server-dir : public_html/
